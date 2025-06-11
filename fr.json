@@ -189,7 +189,7 @@
     "server.europe": "Europe",
     "server.asia": "Asie",
     "server.america": "Amérique",
-    "server.th_hk_mo": "TH/HK/MO",
+    "server.th_hk_mo": "TW/HK/MO",
     "server.rate_limited": "Trop de requêtes",
     "server.server_error": "Erreur serveur",
     "server.connection_error": "Erreur de connexion",

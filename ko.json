@@ -189,7 +189,7 @@
     "server.europe": "유럽",
     "server.asia": "아시아",
     "server.america": "아메리카",
-    "server.th_hk_mo": "TH/HK/MO",
+    "server.th_hk_mo": "TW/HK/MO",
     "server.rate_limited": "요청 제한",
     "server.server_error": "서버 오류",
     "server.connection_error": "연결 오류",

@@ -189,7 +189,7 @@
     "server.europe": "Европа",
     "server.asia": "Азия",
     "server.america": "Америка",
-    "server.th_hk_mo": "TH/HK/MO",
+    "server.th_hk_mo": "TW/HK/MO",
     "server.rate_limited": "Превышен лимит запросов",
     "server.server_error": "Ошибка сервера",
     "server.connection_error": "Ошибка подключения",
