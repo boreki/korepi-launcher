@@ -11,6 +11,7 @@
     "app.launcher_update_available": "एक नया लॉन्चर अपडेट उपलब्ध है!",
     
     "tab.dashboard": "Dashboard",
+    "tab.tools": "Tools",
     "tab.configs": "Configs",
     "tab.skins": "Skins",
     "tab.about": "About",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "Genshin वर्ज़न",
     "dash.last_updated": "पिछला अपडेट",
     "dash.last_version": "अंतिम वर्ज़न",
+    "dash.last_paused": "Last Paused",
     "dash.license": "लाइसेंस",
     "dash.changelog": "चेंजलॉग",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "टूल्स मैनेजर",
     "config.open_style_editor": "स्टाइल एडिटर खोलें",
     "config.win_defender_exclusion": "Windows Defender एक्सक्लूज़न जोड़ें",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "मैप डेटा ट्रांसफर करें",
     "tools.select_with_data": "मैप डेटा वाली cfg.json चुनें",
@@ -189,7 +193,7 @@
     "server.europe": "यूरोप",
     "server.asia": "एशिया",
     "server.america": "अमेरिका",
-    "server.th_hk_mo": "TW/HK/MO",
+    "server.tw_hk_mo": "TW/HK/MO",
     "server.rate_limited": "रेट लिमिटेड",
     "server.server_error": "सर्वर त्रुटि",
     "server.connection_error": "कनेक्शन त्रुटि",

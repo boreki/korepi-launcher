@@ -11,6 +11,7 @@
     "app.launcher_update_available": "新しいランチャーのアップデートがあります！",
     
     "tab.dashboard": "ダッシュボード",
+    "tab.tools": "Tools",
     "tab.configs": "設定",
     "tab.skins": "スキン",
     "tab.about": "概要",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "原神のバージョン",
     "dash.last_updated": "最終更新",
     "dash.last_version": "最新バージョン",
+    "dash.last_paused": "Last Paused",
     "dash.license": "ライセンス",
     "dash.changelog": "変更履歴",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "ツールマネージャー",
     "config.open_style_editor": "スタイルエディターを開く",
     "config.win_defender_exclusion": "Windows Defenderの除外設定を追加",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "マップデータを転送",
     "tools.select_with_data": "マップデータを含むcfg.jsonを選択",
@@ -189,7 +193,7 @@
     "server.europe": "ヨーロッパ",
     "server.asia": "アジア",
     "server.america": "アメリカ",
-    "server.th_hk_mo": "TW/HK/MO",
+    "server.tw_hk_mo": "TW/HK/MO",
     "server.rate_limited": "レート制限",
     "server.server_error": "サーバーエラー",
     "server.connection_error": "接続エラー",

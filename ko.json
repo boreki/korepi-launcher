@@ -11,6 +11,7 @@
     "app.launcher_update_available": "새로운 런처 업데이트가 있습니다!",
     
     "tab.dashboard": "대시보드",
+    "tab.tools": "Tools",
     "tab.configs": "설정",
     "tab.skins": "스킨",
     "tab.about": "정보",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "원신 버전",
     "dash.last_updated": "마지막 업데이트",
     "dash.last_version": "최신 버전",
+    "dash.last_paused": "Last Paused",
     "dash.license": "라이선스",
     "dash.changelog": "변경 로그",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "도구 관리자",
     "config.open_style_editor": "스타일 편집기 열기",
     "config.win_defender_exclusion": "Windows Defender 제외 항목 추가",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "지도 데이터 전송",
     "tools.select_with_data": "지도 데이터가 있는 cfg.json 선택",
@@ -189,7 +193,7 @@
     "server.europe": "유럽",
     "server.asia": "아시아",
     "server.america": "아메리카",
-    "server.th_hk_mo": "TW/HK/MO",
+    "server.tw_hk_mo": "TW/HK/MO",
     "server.rate_limited": "요청 제한",
     "server.server_error": "서버 오류",
     "server.connection_error": "연결 오류",

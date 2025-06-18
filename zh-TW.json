@@ -11,6 +11,7 @@
     "app.launcher_update_available": "啟動器有新版本可供更新！",
     
     "tab.dashboard": "儀表板",
+    "tab.tools": "Tools",
     "tab.configs": "設定檔",
     "tab.skins": "外觀",
     "tab.about": "關於",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "原神版本",
     "dash.last_updated": "最後更新",
     "dash.last_version": "最新版本",
+    "dash.last_paused": "Last Paused",
     "dash.license": "授權",
     "dash.changelog": "更新日誌",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "工具管理器",
     "config.open_style_editor": "開啟樣式編輯器",
     "config.win_defender_exclusion": "新增 Windows Defender 排除項目",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
     
     "tools.transfer_map_data": "轉移地圖資料",
     "tools.select_with_data": "選擇包含地圖資料的 cfg.json",
@@ -189,7 +193,7 @@
     "server.europe": "歐洲",
     "server.asia": "亞洲",
     "server.america": "美洲",
-    "server.th_hk_mo": "台港澳",
+    "server.tw_hk_mo": "台港澳",
     "server.rate_limited": "請求頻繁",
     "server.server_error": "伺服器錯誤",
     "server.connection_error": "連線錯誤",

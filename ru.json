@@ -11,6 +11,7 @@
     "app.launcher_update_available": "Доступно новое обновление лаунчера!",
   
     "tab.dashboard": "Дашборд",
+    "tab.tools": "Tools",
     "tab.configs": "Конфиги",
     "tab.skins": "Скины",
     "tab.about": "О программе",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "Версия Genshin",
     "dash.last_updated": "Последнее обновление",
     "dash.last_version": "Последняя версия",
+    "dash.last_paused": "Last Paused",
     "dash.license": "Лицензия",
     "dash.changelog": "Список изменений",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "Менеджер инструментов",
     "config.open_style_editor": "Открыть редактор стилей",
     "config.win_defender_exclusion": "Добавить исключения для Защитника Windows",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "Перенести данные карты",
     "tools.select_with_data": "Выбрать cfg.json с данными карты",
@@ -189,7 +193,7 @@
     "server.europe": "Европа",
     "server.asia": "Азия",
     "server.america": "Америка",
-    "server.th_hk_mo": "TW/HK/MO",
+    "server.tw_hk_mo": "TW/HK/MO",
     "server.rate_limited": "Превышен лимит запросов",
     "server.server_error": "Ошибка сервера",
     "server.connection_error": "Ошибка подключения",

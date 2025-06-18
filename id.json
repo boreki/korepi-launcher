@@ -11,6 +11,7 @@
     "app.launcher_update_available": "Update launcher baru tersedia!",
     
     "tab.dashboard": "Dasbor",
+    "tab.tools": "Tools",
     "tab.configs": "Konfigurasi",
     "tab.skins": "Skin",
     "tab.about": "Tentang",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "Versi Genshin",
     "dash.last_updated": "Terakhir Diupdate",
     "dash.last_version": "Versi Terakhir",
+    "dash.last_paused": "Last Paused",
     "dash.license": "Lisensi",
     "dash.changelog": "Log Perubahan",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "Manajer Alat",
     "config.open_style_editor": "Buka Editor Tampilan",
     "config.win_defender_exclusion": "Tambahkan Pengecualian Windows Defender",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "Transfer Data Peta",
     "tools.select_with_data": "Pilih cfg.json dengan Data Peta",
@@ -189,7 +193,7 @@
     "server.europe": "Eropa",
     "server.asia": "Asia",
     "server.america": "Amerika",
-    "server.th_hk_mo": "TW/HK/MO",
+    "server.tw_hk_mo": "TW/HK/MO",
     "server.rate_limited": "Rate Limited",
     "server.server_error": "Server Error",
     "server.connection_error": "Koneksi Error",

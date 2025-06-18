@@ -11,6 +11,7 @@
     "app.launcher_update_available": "启动器有新版本可用！",
     
     "tab.dashboard": "仪表盘",
+    "tab.tools": "Tools",
     "tab.configs": "配置",
     "tab.skins": "皮肤",
     "tab.about": "关于",
@@ -79,6 +80,7 @@
     "dash.genshin_version": "原神版本",
     "dash.last_updated": "最后更新",
     "dash.last_version": "最新版本",
+    "dash.last_paused": "Last Paused",
     "dash.license": "许可",
     "dash.changelog": "更新日志",
   
@@ -97,6 +99,8 @@
     "config.tools_manager": "工具管理器",
     "config.open_style_editor": "打开样式编辑器",
     "config.win_defender_exclusion": "添加 Windows Defender 排除项",
+    "config.inject_settings": "Inject Settings",
+    "config.system_settings": "System Settings",
   
     "tools.transfer_map_data": "转移地图数据",
     "tools.select_with_data": "选择含有地图数据的 cfg.json",
@@ -189,7 +193,7 @@
     "server.europe": "欧洲",
     "server.asia": "亚洲",
     "server.america": "美洲",
-    "server.th_hk_mo": "港澳台",
+    "server.tw_hk_mo": "港澳台",
     "server.rate_limited": "请求频繁",
     "server.server_error": "服务器错误",
     "server.connection_error": "连接错误",

@@ -11,6 +11,7 @@
   "app.launcher_update_available": "มีอัปเดต Launcher เวอร์ชันใหม่!",
   
   "tab.dashboard": "แดชบอร์ด",
+  "tab.tools": "Tools",
   "tab.configs": "การตั้งค่า",
   "tab.skins": "สกิน",
   "tab.about": "เกี่ยวกับ",
@@ -78,6 +79,7 @@
   "dash.genshin_version": "เวอร์ชัน Genshin",
   "dash.last_updated": "อัปเดตล่าสุด",
   "dash.last_version": "เวอร์ชันล่าสุด",
+  "dash.last_paused": "Last Paused",
   "dash.license": "License",
   "dash.changelog": "บันทึกการเปลี่ยนแปลง",
 
@@ -96,6 +98,8 @@
   "config.tools_manager": "ตัวจัดการเครื่องมือ",
   "config.open_style_editor": "เปิดตัวแก้ไขสไตล์",
   "config.win_defender_exclusion": "เพิ่มการยกเว้น Windows Defender",
+  "config.inject_settings": "Inject Settings",
+  "config.system_settings": "System Settings",
 
   "tools.transfer_map_data": "โอนย้ายข้อมูลแผนที่",
   "tools.select_with_data": "เลือก cfg.json ที่มีข้อมูลแผนที่",
@@ -189,7 +193,7 @@
   "server.europe": "ยุโรป",
   "server.asia": "เอเชีย",
   "server.america": "อเมริกา",
-  "server.th_hk_mo": "ไต้หวัน/ฮ่องกง/มาเก๊า",
+  "server.tw_hk_mo": "ไต้หวัน/ฮ่องกง/มาเก๊า",
   "server.rate_limited": "Rate Limited",
   "server.server_error": "ข้อผิดพลาดเซิร์ฟเวอร์",
   "server.connection_error": "ข้อผิดพลาดการเชื่อมต่อ",

@@ -11,6 +11,7 @@
   "app.launcher_update_available": "A new launcher update is available!",
   
   "tab.dashboard": "Dashboard",
+  "tab.tools": "Tools",
   "tab.configs": "Configs",
   "tab.skins": "Skins",
   "tab.about": "About",
@@ -79,6 +80,7 @@
   "dash.genshin_version": "Genshin Version",
   "dash.last_updated": "Last Updated",
   "dash.last_version": "Last Version",
+  "dash.last_paused": "Last Paused",
   "dash.license": "License",
   "dash.changelog": "Changelog",
 
@@ -97,6 +99,8 @@
   "config.tools_manager": "Tools Manager",
   "config.open_style_editor": "Open Style Editor",
   "config.win_defender_exclusion": "Add Windows Defender Exclusions",
+  "config.inject_settings": "Inject Settings",
+  "config.system_settings": "System Settings",
 
   "tools.transfer_map_data": "Transfer Map Data",
   "tools.select_with_data": "Select cfg.json with Map Data",
@@ -189,7 +193,7 @@
   "server.europe": "Europe",
   "server.asia": "Asia",
   "server.america": "America",
-  "server.th_hk_mo": "TW/HK/MO",
+  "server.tw_hk_mo": "TW/HK/MO",
   "server.rate_limited": "Rate Limited",
   "server.server_error": "Server Error",
   "server.connection_error": "Connection Error",

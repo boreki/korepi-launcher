@@ -11,6 +11,7 @@
   "app.launcher_update_available": "Có bản cập nhật launcher mới!",
   
   "tab.dashboard": "Bảng điều khiển",
+  "tab.tools": "Tools",
   "tab.configs": "Cấu hình",
   "tab.skins": "Skins",
   "tab.about": "Giới thiệu",
@@ -79,6 +80,7 @@
   "dash.genshin_version": "Phiên bản Genshin",
   "dash.last_updated": "Cập nhật cuối",
   "dash.last_version": "Phiên bản mới nhất",
+  "dash.last_paused": "Last Paused",
   "dash.license": "Bản quyền",
   "dash.changelog": "Nhật ký thay đổi",
 
@@ -97,6 +99,8 @@
   "config.tools_manager": "Quản lý công cụ",
   "config.open_style_editor": "Mở trình chỉnh sửa kiểu",
   "config.win_defender_exclusion": "Thêm loại trừ Windows Defender",
+  "config.inject_settings": "Inject Settings",
+  "config.system_settings": "System Settings",
 
   "tools.transfer_map_data": "Chuyển dữ liệu bản đồ",
   "tools.select_with_data": "Chọn cfg.json có dữ liệu bản đồ",
@@ -189,7 +193,7 @@
   "server.europe": "Châu Âu",
   "server.asia": "Châu Á",
   "server.america": "Châu Mỹ",
-  "server.th_hk_mo": "TW/HK/MO",
+  "server.tw_hk_mo": "TW/HK/MO",
   "server.rate_limited": "Giới hạn tốc độ",
   "server.server_error": "Lỗi máy chủ",
   "server.connection_error": "Lỗi kết nối",
